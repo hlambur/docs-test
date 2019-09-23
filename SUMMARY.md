@@ -2,6 +2,7 @@
 
 * [Initial page](README.md)
 * [FAQ](faq.md)
+* [Test](test.md)
 
 ## Events
 
