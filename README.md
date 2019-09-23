@@ -1,23 +1,10 @@
-# Initial page
+# UMA Community
 
-## Getting Super Powers
+Below is a collection of resources for anyone interested in exploring UMA with beginner guides, analysis pieces, tools, partnership announcements, AMAs, podcasts, 3rd party apps, and much more.
 
-Becoming a super hero is a fairly straight forward process:
+Start by checking out our events \(both upcoming and future\):
 
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+{% page-ref page="events/irl-events-and-hackathons.md" %}
 
 
 
